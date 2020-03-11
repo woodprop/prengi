@@ -1,0 +1,30 @@
+{
+  "name": "Prengi",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/woodprop/prengi.git"
+  },
+  "author": "Konstantin Kokarev",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/woodprop/prengi/issues"
+  },
+  "homepage": "https://github.com/woodprop/prengi#readme",
+  "devDependencies": {
+    "browser-sync": "^2.26.7",
+    "css-reset-and-normalize-sass": "^0.1.2",
+    "gulp": "^4.0.2",
+    "gulp-autoprefixer": "^7.0.1",
+    "gulp-clean-css": "^4.2.0",
+    "gulp-cli": "^2.2.0",
+    "gulp-rename": "^2.0.0",
+    "gulp-sass": "^4.0.2",
+    "gulp-sourcemaps": "^2.6.5"
+  }
+}
